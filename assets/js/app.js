@@ -1,15 +1,3 @@
-// ==== Config & State ====
-const defaultConfig = {
-  brand_name: "B'AS",
-  hero_title: "Welcome to B'AS",
-  hero_description: "Your trusted partner in quality products. We deliver excellence with every product we create.",
-  contact_email: "info@bas.com",
-  contact_phone: "+62 123 456 789",
-  contact_address: "Jl. Contoh No. 123, Jakarta Selatan, DKI Jakarta 12345",
-  primary_color: "#8B4513",
-  secondary_color: "#FFA366",
-  team_names: "Aulia • Bima • Sari • Danu"
-};
 
 let contactMessages = [];
 let currentPage = "home";
